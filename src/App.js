@@ -8,8 +8,6 @@ function App() {
   // const[num,setNum]=useState(0)
   // const[pr,setPr]=useState(0)
   const[main,setMain]=useState([])
-  // const[reset,setReset]=useState(-1)
-  // const[initialValues,setinitialValue]=useState(-1)
   const[re,setRe]=useState(-1)
   const[value1,setValue1]=useState(
     {
